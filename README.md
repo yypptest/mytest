@@ -1,3 +1,3 @@
 # mytest
 
-readme.
+this is a test.
